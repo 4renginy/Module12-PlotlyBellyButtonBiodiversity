@@ -21,13 +21,14 @@ Labs across the country have had success in synthesizing meat from algea, fungi,
  [Charts.js](https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/charts.js) is the javascript code to populate the necessary information to show on the page,
 
                  On this page the provider will be able to choose their id number from dorpdown menu and 
-                 see all the information about themselves and what kindof bacterias found in their bellies. 
+                 see all the information about themselves and what kind of bacterias found in their bellies. 
 
                  The fellow researchers can find the bacteria types found in human bodies, how much, effects
                  of washing frequency kind of information.
 
- [index.html](https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/index.html) is the web page code to present the information.
- [tyle.css] (https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/style.css) gave the page touch of charachter.
+ <br>[index.html](https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/index.html) is the web page code to present the information.
+ <br>[style.css] (https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/style.css) gave the page touch of charachter.
+ <br>
  
  I hope you enjoy the page as much as we enjoyed creating it.
 
