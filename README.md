@@ -27,7 +27,7 @@ Labs across the country have had success in synthesizing meat from algea, fungi,
                  of washing frequency kind of information.
 
  <br>[index.html](https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/index.html) is the web page code to present the information.
- <br>[style.css] (https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/style.css) gave the page touch of charachter.
+ <br>[style.css](https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/style.css) gave the page touch of charachter.
  <br>
  
  I hope you enjoy the page as much as we enjoyed creating it.
