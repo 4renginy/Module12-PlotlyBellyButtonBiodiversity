@@ -17,7 +17,8 @@ Labs across the country have had success in synthesizing meat from algea, fungi,
  ## Methods
  <br>
  Such a dasboard requires buttons, dropdown menus, lists and charts however regular html wont do what we need to do so we decided to use javascript and html together.
- ![index_page](https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/interactivepage.PNG)
+ 
+ ![](https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/interactivepage.PNG)
  
  [Charts.js](https://github.com/4renginy/Module12-PlotlyBellyButtonBiodiversity/blob/main/charts.js) is the javascript code to populate the necessary information to show on the page,
 
